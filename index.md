@@ -1,4 +1,4 @@
 ---
-title: MYBLOG
+title: Shell Hacker Ressources
 ---
-hello welcome on my blog
+blog where you can find some shell ressources and concepts, ideas
