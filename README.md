@@ -18,9 +18,9 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Visit my blog
+## [Go to the blog](https://m4rv4x.github.io/skills-github-pages/).
 
-[Go to the blog](https://m4rv4x.github.io/skills-github-pages/).
+
 
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
