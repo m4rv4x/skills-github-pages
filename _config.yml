@@ -1,4 +1,5 @@
-theme: minima
-title: "blog"
+#theme: minima
+title: "ghost.shell"
 author: "m4rv4x"
 description: "shell hacker ressources"
+remote_theme: "jeffreytse/jekyll-theme-yat"
