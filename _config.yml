@@ -116,12 +116,12 @@ yat:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
- header_pages:
-   - index.html
-   - archives.html
-   - categories.html
-   - tags.html
-   - about.md
+# header_pages:
+#   - index.html
+#   - archives.html
+#   - categories.html
+#   - tags.html
+#   - about.md
 
 # Page default value
  defaults:
@@ -217,9 +217,9 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-spaceship
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
+#  - jekyll-sitemap
+#  - jekyll-paginate
+#  - jekyll-spaceship
