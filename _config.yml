@@ -7,13 +7,6 @@ copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 description: "Shell hacking ressources"
 permalink: /:title/
 paginate: 10
-gems:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-spaceship
-  - jekyll-paginate
-
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
 yat:
