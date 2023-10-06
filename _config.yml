@@ -125,9 +125,9 @@ yat:
 
 # Page default value
 # defaults:
-#   home:
- #    heading: "Cyber Warrior Chronicles"
- #    subheading: "Unleashing the Digital Arsenal: Exploring the Art of Tactical Hacking"
+   home:
+    heading: "Cyber Warrior Chronicles"
+    subheading: "Unleashing the Digital Arsenal: Exploring the Art of Tactical Hacking"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
