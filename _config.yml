@@ -104,7 +104,7 @@ yat:
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
- night_mode: "auto"
+# night_mode: "auto"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
@@ -124,10 +124,10 @@ yat:
 #   - about.md
 
 # Page default value
- defaults:
-   home:
-     heading: "Cyber Warrior Chronicles"
-     subheading: "Unleashing the Digital Arsenal: Exploring the Art of Tactical Hacking"
+# defaults:
+#   home:
+ #    heading: "Cyber Warrior Chronicles"
+ #    subheading: "Unleashing the Digital Arsenal: Exploring the Art of Tactical Hacking"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
