@@ -4,7 +4,7 @@ author: "m4rv4x"
 remote_theme: "jeffreytse/jekyll-theme-yat"
 email: "m4rv4x@protonmail.com"
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
-description: "Shell hacking ressources"
+description: "Shell hacking resources"
 permalink: /:title/
 paginate: 10
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
