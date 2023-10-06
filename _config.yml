@@ -129,7 +129,8 @@ yat:
    home:
      heading: "Cyber Warrior Chronicles"
      subheading: "Unleashing the Digital Arsenal: Exploring the Art of Tactical Hacking"
-     banner: "Your image url"
+     banner:
+       video: https://vjs.zencdn.net/v/oceans.mp4
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
