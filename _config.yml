@@ -6,6 +6,14 @@ email: "m4rv4x@protonmail.com"
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 description: "Shell hacking ressources"
 
+plugins: [jekyll-paginate]
+permalink: /:title/
+paginate: 10
+
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+
 yat:
   date_format: "%b %d, %Y"
 
@@ -29,6 +37,8 @@ banner:
   subheading_style: "color: gold"
 
 night_mode: "manual"
+
+
 
 # Excerpt settings
 # excerpt:
