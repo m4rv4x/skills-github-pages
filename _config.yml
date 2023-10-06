@@ -128,7 +128,6 @@ yat:
    home:
      heading: "Cyber Warrior Chronicles"
      subheading: "Unleashing the Digital Arsenal: Exploring the Art of Tactical Hacking"
-     banner: "none"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -145,7 +144,18 @@ yat:
 #   min_height: null        # Banner minimum height
 #   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
 #   subheading_style: null  # Custom subheading style (e.g. color: gold)
-
+banner:
+  video: https://vjs.zencdn.net/v/oceans.mp4
+  loop: true
+  volume: 0.8
+  start_at: 8.5
+  image: https://bit.ly/3xTmdUP
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
 # Excerpt settings
 # excerpt:
 #   default_image: /assets/images/default-image.jpeg  # Default image when the image style is not none
