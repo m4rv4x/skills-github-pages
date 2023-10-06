@@ -8,8 +8,7 @@ email: m4rv4x@protonmail.com
 
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
-description: >- # this means to ignore newlines until "baseurl:"
-  Shell hacking ressources
+description: "Shell hacking ressources"
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. https://example.com
@@ -124,7 +123,7 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
+ defaults:
    home:
     heading: "Cyber Warrior Chronicles"
     subheading: "Unleashing the Digital Arsenal: Exploring the Art of Tactical Hacking"
