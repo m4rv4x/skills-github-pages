@@ -1,6 +1,19 @@
 ---
 title: "bt-keymap-script"
-date: 2023-10-04
+layout: post
+subtitle: Bluetooth Auto KeyMap Script at connect
+author: m4rv4x
+categories: bash
+banner:
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+tags: bash config cli bluetooth
+top: 1
+sidebar: []
 ---
 To start a custom keymap when using your Bluetooth keyboard on Debian 12, you can follow these steps:
 

@@ -1,6 +1,19 @@
 ---
 title: "feh-wallpaper"
-date: 2023-10-04
+layout: post
+subtitle: Set Wallpaper for i3
+author: m4rv4x
+categories: i3
+banner:
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+tags: bash i3
+top: 1
+sidebar: []
 ---
 To set a wallpaper in i3, you can use a program called `feh`. Here's how you can do it:
 

@@ -1,6 +1,19 @@
 ---
 title: "current-city"
-date: 2023-10-04
+layout: post
+subtitle: Check your current city in bash
+author: m4rv4x
+categories: bash
+banner:
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+tags: bash
+top: 1
+sidebar: []
 ---
 
 To know your current city using the `curl` command in the command line interface (CLI), you can make use of a geolocation API service. One popular service is the ipapi API, which provides geolocation data based on IP addresses.

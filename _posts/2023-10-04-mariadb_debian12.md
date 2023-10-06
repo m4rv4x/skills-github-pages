@@ -1,6 +1,19 @@
 ---
 title: "mariadb_debian12"
-date: 2023-10-04
+layout: post
+subtitle: Install Mysql Server debian 12
+author: m4rv4x
+categories: bash
+banner:
+  opacity: 0.618
+  background: "#000"
+  height: "100vh"
+  min_height: "38vh"
+  heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
+  subheading_style: "color: gold"
+tags: bash mysql
+top: 1
+sidebar: []
 ---
 To connect to MariaDB on Debian 12 and create a table, you can follow these steps:
 
