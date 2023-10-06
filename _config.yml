@@ -2,15 +2,11 @@
 title: "ghost.shell"
 author: "m4rv4x"
 remote_theme: "jeffreytse/jekyll-theme-yat"
-
 email: "m4rv4x@protonmail.com"
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 description: "Shell hacking ressources"
-
-
-# Page default value
- defaults:
-   home:
+defaults:
+  home:
     heading: "Cyber Warrior Chronicles"
     subheading: "Unleashing the Digital Arsenal: Exploring the Art of Tactical Hacking"
 
@@ -102,9 +98,9 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-spaceship
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
+#  - jekyll-sitemap
+#  - jekyll-paginate
+#  - jekyll-spaceship
