@@ -34,7 +34,7 @@ banner:
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
 
-night_mode: "auto"
+#night_mode: "auto"
 
 # Excerpt settings
 # excerpt:
